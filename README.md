@@ -1,3 +1,36 @@
+# Vervebridge Weather App
+
+## Project Overview
+This weather app allows users to get current weather information based on the city they enter. The app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data.
+
+## Setup Instructions
+1. Clone the repository:
+   ```
+   git clone https://github.com/zeeshan-akhter/vervebridge-weather-app.git
+   ```
+2. Install the dependencies:
+   ```
+   npm install
+   ```
+3. Run the application:
+   ```
+   npm start
+   ```
+
+## Usage Instructions
+1. Enter the city name in the input field.
+2. Click the "Get Weather" button to fetch and display weather information.
+
+## API Details
+- **Endpoint**: `https://api.openweathermap.org/data/2.5/`
+- **Parameters**: `q` (city name), `appid` (API key), `units` (metric)
+
+## Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch for your feature/bugfix.
+3. Submit a pull request with a detailed description of your changes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
