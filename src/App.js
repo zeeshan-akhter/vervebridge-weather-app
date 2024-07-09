@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://github.com/zeeshan-akhter/weather-app/">
+        <a href="https://github.com/zeeshan-akhter/vervebridge-weather-app/">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
